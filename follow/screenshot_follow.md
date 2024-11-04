@@ -2,4 +2,4 @@
 以下是所有关注的截图！
 
 ## Twitter关注
-![Image](Twitter_follow.png)
+![Image](Twitter follow.png)
