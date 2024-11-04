@@ -6,3 +6,9 @@
 
 ## Bilibili关注
 ![Image](Bilibili_follow.png)
+
+## Typus Finance关注
+![Image](Typus_Finance_follow.png)
+
+## Navi Protocol关注
+![Image](Navi_Protocol_follow.png)
